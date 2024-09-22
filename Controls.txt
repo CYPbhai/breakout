@@ -1,0 +1,4 @@
+Pause/Resume : Space
+Controls of a paddle : side arrows (left and right)
+To change the name while storing the high score: Up and Down arrow keys to change the character (A to Z)
+Esc : to exit the game and to exit the high scores menu
